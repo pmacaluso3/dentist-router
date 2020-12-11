@@ -1,5 +1,10 @@
 function Home() {
-  return(<div>This is the Home Page</div>)
+  return (
+    <>
+      <h1>Home</h1>
+      <div>Welcome to your friendly neighborhood dentist</div>
+    </>
+  )
 }
 
 export default Home
